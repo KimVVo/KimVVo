@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on creating Unity Game Accessibility Plugins, which are tools to help editors build more inclusive games. These   plugins include features like color contrast adjustments, text-to-speech, and more.
 
 - 🌱 I’m currently learning React and CompTIA Network+.
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: thienkimvo0111@gmail.com
 
 
