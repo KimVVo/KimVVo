@@ -15,4 +15,5 @@ Creating tools to help editors build more inclusive games with features like col
 A themed travel planner app with unique options for seasonal events and activities.
 
 ### 👀 Check out my...
+<h3>👀 Check out my...</h3>
 ![snake_gif](https://github.com/KimVVo/kimvo/blob/output/github-contribution-grid-snake.svg)
