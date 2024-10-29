@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! I'm Kim.👋</h1>
+<h1 align="center">Hi👋, I'm Kim</h1>
 
-<h3 align="center">A passionate Senior Computer Science student from Dallas. I'm currently thriving in learning more about full-stack development.</h3>
+<h3 align="center">A Computer Science student. I'm currently thriving in learning more about full-stack development.</h3>
 
 - 🔭 I’m currently working on [Trip Planner](https://boo-way.vercel.app/).
 - 🌱 I’m currently learning React and CompTIA Network+.
