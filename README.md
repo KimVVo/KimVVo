@@ -15,6 +15,6 @@ Creating tools to help editors build more inclusive games with features like col
 A themed travel planner app with unique options for seasonal events and activities.
 
 ### 👀 Check out my...
-[![portfolio_badge]]([https://kimvo.vercel.app/])
+[![portfolio_badge]](https://kimvo.vercel.app/)
 
 ![snake_gif](https://github.com/KimVVo/kimvo/blob/output/github-contribution-grid-snake.svg)
