@@ -1,18 +1,17 @@
-<h1 align="center">Hi👋, I'm Kim</h1>
+<h1 align="center">Hi👋, I'm Kim Vo</h1>
 
-<h3 align="center">A Computer Science student. I'm currently thriving in learning more about full-stack development.</h3>
+<h3 align="center">A Computer Science graduate from UNT in May 2026. I'm a software developer with experience in building modern, user-centered web applications. I’m a fast learner who enjoys continuously learning and challenging myself with new technologies</h3>
 
-- 🔭 I’m currently working on [ADHD Study Planner]([https://boo-way.vercel.app/](https://adhd-go6z-789teoph4-kim-s-projects-9761751b.vercel.app/auth)).
-- 🌱 I’m currently learning React and CompTIA Network+.
+
+- 🌱  In May 2026, I earned my AWS Certified Solutions Architect – Associate certification, building on my AWS knowledge and cloud skills.
 - 📫 How to reach me: thienkimvo0111@gmail.com
 - 🔭 I’m currently working on:
 
 ### My projects:
-#### 🕹️ Unity Game Accessibility Plugins
-Creating tools to help editors build more inclusive games with features like color contrast adjustments, text-to-speech, and more.
+#### 🕹️ AI Resume Matching System.
+• Developed an AI-powered Resume Matching System using a database pipeline.
+• Implemented Python to extract and clean resume and job data; Azure Blob Storage handled the raw files, the structured data was loaded into PostgreSQL, and SQL was used to query the data and generate matching and application metrics.
 
-#### 🌍 Travel Planner App
-A themed travel planner app with unique options for seasonal events and activities.
 
 ### 👀 Check out my...
 [Website](https://portfolio-main-lemon-five.vercel.app/)
