@@ -14,6 +14,6 @@
 
 
 ### 👀 Check out my...
-[Website](https://portfolio-main-lemon-five.vercel.app/)
+[Website]([https://portfolio-main-lemon-five.vercel.app/](https://kim-vo-software-developer.vercel.app/about))
 
 ![snake_gif](https://github.com/KimVVo/kimvo/blob/output/github-contribution-grid-snake.svg)
