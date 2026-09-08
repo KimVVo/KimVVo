@@ -8,11 +8,11 @@
 
 
 
-- 🌱  Recently, I learned about the cloud and earned my AWS Certified Solutions Architect – Associate certification in May 2026. I'm currently building hands-on projects to apply cloud architecture, serverless patterns, and infrastructure design in real-world applications.
+🌱  Recently, I learned about the cloud and earned my AWS Certified Solutions Architect – Associate certification in May 2026. I'm currently building hands-on projects to apply cloud architecture, serverless patterns, and infrastructure design in real-world applications.
 
    
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 
 
 
