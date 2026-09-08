@@ -5,7 +5,7 @@
 <h3 align="center">A Computer Science graduate from UNT in May 2026. A software developer with experience in building modern, user-centered web applications and challenging myself with new technologies.</h3>
 
 
-
+###
 
 
 🌱  Recently, I learned about the cloud and earned my AWS Certified Solutions Architect – Associate certification in May 2026. I'm currently building hands-on projects to apply cloud architecture, serverless patterns, and infrastructure design in real-world applications.
@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on:
 
-
+###
 
 ### My current projects:
 
@@ -29,7 +29,7 @@ analyze market data and visualize financial trends through interactive dashboard
 
 classify 4+ candlestick patterns, generating real-time technical-analysis signals from market charts.
 
-
+###
 
 ### 👀 Check out my website...
 
