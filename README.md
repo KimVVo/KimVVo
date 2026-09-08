@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kim-vo-software-developer.vercel.app/about">
+  <a href="https://kim-vo-software-developer.vercel.app/">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Website Portfolio">
   </a>
 </p>
