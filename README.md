@@ -1,20 +1,41 @@
-<h1 align="center">Hi 👋, I'm Kim Vo</h1>
+<h1 align="center">Hi👋, I'm Kim Vo</h1>
 
-<h3 align="center">Computer Science Graduate from UNT (May 2026) | Software Engineer specializing in modern web applications & cloud architecture.</h3>
 
-- 🌱 **Currently expanding into Cloud Engineering** — AWS Certified Solutions Architect – Associate (May 2026). Actively building real-world projects leveraging cloud architecture, serverless patterns, and scalable infrastructure.
-  
-- 🔭 **Featured Project:**
 
-### 🕹️ Fin-Sight Pattern AI
-• Developed a full-stack financial analytics platform using **TypeScript, React, Node.js, Python, and PostgreSQL** to visualize market trends via real-time interactive dashboards.
-• Engineered an AI-powered image analysis pipeline utilizing computer vision and machine learning models to detect **4+ candlestick patterns** from market charts, delivering live technical analysis signals.
+<h3 align="center">A Computer Science graduate from UNT in May 2026. A software developer with experience in building modern, user-centered web applications and challenging myself with new technologies.</h3>
 
----
 
-### 🌐 Connect & Explore
-[Portfolio Website](https://kim-vo-software-developer.vercel.app/about)
 
-<p align="center">
-  <img src="https://github.com/KimVVo/kimvo/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+
+
+- 🌱  Recently, I learned about the cloud and earned my AWS Certified Solutions Architect – Associate certification in May 2026. I'm currently building hands-on projects to apply cloud architecture, serverless patterns, and infrastructure design in real-world applications.
+
+   
+
+- 🔭 I’m currently working on:
+
+
+
+### My current projects:
+
+#### 🕹️ Fin-Sight Pattern AI
+
+• Developed a full-stack analytics platform using TypeScript, React, Node.js, Python, and PostgreSQL, enabling users to
+
+analyze market data and visualize financial trends through interactive dashboards.
+
+
+• Engineered an AI-powered financial analysis pipeline combining computer vision and machine learning to detect and
+
+classify 4+ candlestick patterns, generating real-time technical-analysis signals from market charts.
+
+
+
+### 👀 Check out my website...
+
+[Website]([https://kim-vo-software-developer.vercel.app/about])
+
+
+
+![snake_gif](https://github.com/KimVVo/kimvo/blob/output/github-contribution-grid-snake.svg) 
+
